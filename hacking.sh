@@ -1,8 +1,8 @@
 # !/bin/bash
 
-username=thanhtuyen
+username=
 password=goatwebsite
-JSESSIONID=tV6SS_enp0eR0QftfkBJC6qjqqKW7aOQpAmbQY5D 
+JSESSIONID= 
 
 sessionFoundId=0
 sessionFoundStartTime=0
